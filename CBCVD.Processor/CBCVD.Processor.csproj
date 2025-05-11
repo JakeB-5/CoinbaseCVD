@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Discord.Net" Version="3.13.0" />
+      <PackageReference Include="MemoryPack" Version="1.10.0" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+      <PackageReference Include="Quartz" Version="3.8.0" />
+      <PackageReference Include="ScottPlot" Version="5.0.9-beta" />
+      <PackageReference Include="System.ServiceModel.Syndication" Version="8.0.0" />
+      <PackageReference Include="Telegram.Bot" Version="20.0.0-alpha.1" />
+
+
+
+
+
+    </ItemGroup>
+
+
+
+
+</Project>

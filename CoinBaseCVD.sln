@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBCVD.Collector", "CBCVD.Collector\CBCVD.Collector.csproj", "{DF29971A-F502-49EF-83F4-259F0E6D8A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBCVD.Processor", "CBCVD.Processor\CBCVD.Processor.csproj", "{11E55EA8-64C1-424D-B58F-1E21355022C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF29971A-F502-49EF-83F4-259F0E6D8A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF29971A-F502-49EF-83F4-259F0E6D8A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF29971A-F502-49EF-83F4-259F0E6D8A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF29971A-F502-49EF-83F4-259F0E6D8A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E55EA8-64C1-424D-B58F-1E21355022C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E55EA8-64C1-424D-B58F-1E21355022C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E55EA8-64C1-424D-B58F-1E21355022C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E55EA8-64C1-424D-B58F-1E21355022C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
